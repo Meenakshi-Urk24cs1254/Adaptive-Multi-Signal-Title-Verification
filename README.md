@@ -258,7 +258,6 @@ without SBERT, leave `sentence-transformers` uninstalled.
 supplied HTML-table file and that it has not been replaced with a
 different file format.
 
-## Disclaimer
 
 This project is an academic title-similarity screening tool. Its output
 is intended to support preliminary review and should not be treated as a
